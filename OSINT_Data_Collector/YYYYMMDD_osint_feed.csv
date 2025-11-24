@@ -1,0 +1,2 @@
+date_observed,source,indicator,type,context,region_clue,first_seen_url,notes
+2025-11-06,MalwareBazaar,d28ef1a22...,sha256,"Android banker sample",Nigeria,https://malwarebazaar.example/entry,submitted by researcher X
