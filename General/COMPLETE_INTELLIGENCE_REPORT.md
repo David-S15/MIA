@@ -14,8 +14,8 @@
 
 ### Network IOCs
 ```
-C2 Discord Bot Token: MTQzODk3NTUzNjMyNzI5OTIwMg.GHmGBc.3RvtEDvgQCsmm1YYbpaoXogAv0GrLnFnDJh_UY
-Discord Guild ID: 1438975480635199722
+C2 Discord Bot Token: [REDACTED}
+Discord Guild ID: [REDACTED}
 C2 Payload Server: http://173.208.142.174:8080/files/remotepc.zip
 C2 Payload Server: http://173.208.142.174:8080/files/libopus-0.x64.dll
 GitHub Injection: https://raw.githubusercontent.com/BlazeSquad666/discord-injection/main/injection.js
@@ -245,8 +245,8 @@ Bot Discriminator: 5928
 
 ### Discord C2 Server
 ```
-Guild ID: 1438975480635199722
-Bot Token: MTQzODk3NTUzNjMyNzI5OTIwMg.GHmGBc.3RvtEDvgQCsmm1YYbpaoXogAv0GrLnFnDJh_UY
+Guild ID: [REDACTED}
+Bot Token: [REDACTED}
 Bot Name: klozy#5928
 Command Prefix: .
 ```
@@ -369,7 +369,7 @@ rule BlazeStealer_RAT {
         threat_level = "critical"
         
     strings:
-        $discord_token = "MTQzODk3NTUzNjMyNzI5OTIwMg.GHmGBc.3RvtEDvgQCsmm1YYbpaoXogAv0GrLnFnDJh_UY"
+        $discord_token = "[REDACTED}"
         $c2_server = "173.208.142.174:8080"
         $github_repo = "BlazeSquad666/discord-injection"
         $malware_path = "C:\\Windows\\System32\\Intel"
@@ -379,6 +379,7 @@ rule BlazeStealer_RAT {
         $author = "Klozy"
         $group = "BlazeSquad666"
         $contact = "icracked"
+  
         
     condition:
         any of them
@@ -429,7 +430,7 @@ level: critical
    - GitHub: raw.githubusercontent.com/BlazeSquad666/*
 
 2. **Revoke Discord Bot Token:**
-   - Token: MTQzODk3NTUzNjMyNzI5OTIwMg.GHmGBc.3RvtEDvgQCsmm1YYbpaoXogAv0GrLnFnDJh_UY
+   - Token: [REDACTED}
    - Report to Discord Trust & Safety
 
 3. **Hunt for IOCs:**
