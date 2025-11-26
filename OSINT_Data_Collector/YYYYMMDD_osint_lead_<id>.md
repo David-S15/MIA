@@ -1,5 +1,9 @@
 # BlazeStealer Malware Report
 
+BlazeStealer is a malicious infostealer malware that specifically targets developers by masquerading as legitimate Python obfuscation tools in the Python Package Index (PyPI).
+
+---
+
 ## Metadata
 - **Collector:** David  
 - **Source:** Social  
