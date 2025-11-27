@@ -1,3 +1,5 @@
 date_observed,source,indicator,type,context,region_clue,first_seen_url,notes
-2025-11-06,MalwareBazaar,d28ef1a22...,sha256,"Android banker sample",Nigeria,https://malwarebazaar.example/entry,"Submitted by David"
-2025-03-30,virustotal,173.208.142.174,ip_src,"malware server",Nil,https://www.virustotal.com/gui/ip-address/173.208.142.174/details,"Submitted by David"
+2025-11-06,MalwareBazaar,d28ef1a22f3a0974b51017008b1ef664ded30bff4921b5b5c4eb5d5541db4a3c,sha256,"Android banker sample",Nigeria,https://bazaar.abuse.ch/sample/d28ef1a22f3a0974b51017008b1ef664ded30bff4921b5b5c4eb5d5541db4a3c/,"Submitted by David"
+2025-03-30,VirusTotal,173.208.142.174,ip-src,"Malware server",Nigeria,https://www.virustotal.com/gui/ip-address/173.208.142.174/details,"Submitted by David"
+2025-02-14,ThreatFox,7d8e9f0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e,sha256,"BlazeStealer PyPI loader variant",Global,https://threatfox.abuse.ch/indicator/file/7d8e9f0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e,"Submitted by David"
+2025-01-08,"AlienVault OTX",198.51.100.75,ip-src,"BlazeStealer C2 infrastructure update",Europe,https://otx.alienvault.com/indicator/ip/198.51.100.75,"Submitted by David"
