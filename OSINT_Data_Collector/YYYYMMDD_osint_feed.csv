@@ -1,6 +1,6 @@
 date_observed,source,indicator,type,context,region_clue,first_seen_url,notes
-2025-11-06,MalwareBazaar,88ceea988a4b66edfa194eae2aaf50951c6fbbc7d5aa8d19351d36531667fd89,sha256,"Android banker sample",Nigeria,https://bazaar.abuse.ch/sample/88ceea988a4b66edfa194eae2aaf50951c6fbbc7d5aa8d19351d36531667fd89/,"Submitted by David"
-2025-03-30,VirusTotal,46.151.29.182,ip-src,"Malware server",Nigeria,https://www.virustotal.com/gui/ip-address/46.151.29.182/details,"Submitted by David"
+2025-11-06,MalwareBazaar,d28ef1a22f3a0974b51017008b1ef664ded30bff4921b5b5c4eb5d5541db4a3c,sha256,"Android banker sample",Nigeria,https://bazaar.abuse.ch/sample/d28ef1a22f3a0974b51017008b1ef664ded30bff4921b5b5c4eb5d5541db4a3c/,"Submitted by David"
+2025-03-30,VirusTotal,173.208.142.174,ip-src,"Malware server",Nigeria,https://www.virustotal.com/gui/ip-address/173.208.142.174/details,"Submitted by David"
 2025-02-14,ThreatFox,88ceea988a4b66edfa194eae2aaf50951c6fbbc7d5aa8d19351d36531667fd89,sha256,"BlazeStealer PyPI loader variant",Global,https://threatfox.abuse.ch/indicator/file/88ceea988a4b66edfa194eae2aaf50951c6fbbc7d5aa8d19351d36531667fd89,"Submitted by David"
 2025-01-08,"AlienVault OTX",46.151.29.182,ip-src,"BlazeStealer C2 infrastructure update",Europe,https://otx.alienvault.com/indicator/ip/46.151.29.182,"Submitted by David"
 2024-12-20,ANY.RUN,blazestealer-updated.exe,filename,"BlazeStealer credential stealer v2",Asia,https://any.run/report/f9e4b2a1c3d5e7f9a0b1c2d3e4f5a6b/12345678,"Submitted by David"
