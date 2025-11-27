@@ -1,3 +1,7 @@
 date_observed,source,indicator,type,context,region_clue,first_seen_url,notes
 2025-11-06,MalwareBazaar,d28ef1a22...,sha256,"Android banker sample",Nigeria,https://malwarebazaar.example/entry,"Submitted by David"
 2025-03-30,virustotal,173.208.142.174,ip_src,"malware server",Nil,https://www.virustotal.com/gui/ip-address/173.208.142.174/details,"Submitted by David"
+2025-07-15,Techowl Shield,b1a2c3d4e5f6...,sha256,"BlazeStealer sample",Global,https://techowlshield.example/blazestealer/hash,"Submitted by David"
+2025-07-15,Techowl Shield,185.225.19.240,ip_src,"BlazeStealer C2 server",Global,https://techowlshield.example/blazestealer/ip,"Submitted by David"
+2025-08-05,Bitsight,BlazeStealer package,artifact,"Malicious Python package",Global,https://bitsight.example/blazestealer/package,"Submitted by David"
+2025-09-10,DeepStrike,discordapp[.]net,domain,"Fake Discord domain",Global,https://deepstrike.example/blazestealer/domain,"Submitted by David"
