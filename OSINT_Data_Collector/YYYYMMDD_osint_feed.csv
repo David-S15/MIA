@@ -1,3 +1,3 @@
 date_observed,source,indicator,type,context,region_clue,first_seen_url,notes
-2025-11-06,MalwareBazaar,d28ef1a22...,sha256,"Android banker sample",Nigeria,https://malwarebazaar.example/entry,submitted by researcher David
-2025-03-30,Virustotal,173.208.142.174,ip_src,"malware server", Nil,https://www.virustotal.com/gui/ip-address/173.208.142.174/details,submitted by David
+2025-11-06,MalwareBazaar,d28ef1a22...,sha256,"Android banker sample",Nigeria,https://malwarebazaar.example/entry,"Submitted by David"
+2025-03-30,virustotal,173.208.142.174,ip_src,"malware server",Nil,https://www.virustotal.com/gui/ip-address/173.208.142.174/details,"Submitted by David"
