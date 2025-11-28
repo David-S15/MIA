@@ -1,5 +1,4 @@
 "date_observed","source","indicator","type","context","region_clue","first_seen_url","notes"
-"2025-11-06","MalwareBazaar","d28ef1a22...","sha256","Android banker sample","Nigeria","https://bazaar.abuse.ch/sample/d28ef1a22...","Original submission date retained — no public first-seen found for truncated hash (estimate unavailable)"
 "2025-03-30","virustotal","173.208.142.174","ip_src","malware server","Nil","https://www.virustotal.com/gui/ip-address/173.208.142.174/details","Original date retained — public first-seen for IP not reliably available via free VT pages"
 "2023-11-05","HivePro","7ec09503c68942db204b3f5170f2d817b66c4bbdaba08db27dfdbfaba250fb4","sha256","BlazeStealer sample","Global","www.hivepro.com/wp-content/uploads/2023/11/BlazeStealer-Malware-Uncovered-in-Python-Packages-on-PyPI_TA2023454.pdf","Published in HivePro advisory (Nov 2023) — used advisory date as observed."
 "2025-10-26","virustotal","185.225.19.240","ip_src","BlazeStealer C2 server","Global","https://www.virustotal.com/gui/ip-address/185.225.19.240","Original date retained — public first-seen for IP not reliably available via free VT pages"
@@ -12,6 +11,5 @@
 "2023-11-08","PyPI","pyobfadvance","artifact","BlazeStealer malicious Python package","Global","https://pypi.org/project/pyobfadvance/","Mapped to the Nov 2023 public reporting window for BlazeStealer PyPI packages (estimate based on public advisories)."
 "2023-11-08","PyPI","pyobfuse","artifact","BlazeStealer malicious Python package","Global","https://pypi.org/project/pyobfuse/","Mapped to the Nov 2023 public reporting window for BlazeStealer PyPI packages (estimate based on public advisories)."
 "2023-11-08","PyPI","pyobfgood","artifact","BlazeStealer malicious Python package","Global","https://pypi.org/project/pyobfgood/","Mapped to the Nov 2023 public reporting window for BlazeStealer PyPI packages (estimate based on public advisories)."
-date_observed,source,indicator,type,context,region_clue,first_seen_url,notes
 2023-10-05,VirusTotal,2de29b7c4c40045ed1dd5caa31fa09d14c2b27e7640f1156cfbcb299f,sha1,"BlazeStealer sample hash",Global,https://www.virustotal.com/gui/search/blazestealer,"Hash identified in VirusTotal BlazeStealer search results"
 2023-10-05,VirusTotal,48f35cdf841e945e71dd1cb26a0fb2bcb1f702b339311bea2b0313c8d,sha256,"BlazeStealer sample hash",Global,https://www.virustotal.com/gui/search/blazestealer,"Hash listed in VirusTotal under BlazeStealer indicators"
