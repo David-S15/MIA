@@ -1,8 +1,8 @@
 date_observed,source,indicator,type,context,region_clue,first_seen_url,notes
 2025-11-06,MalwareBazaar,d28ef1a22...,sha256,"Android banker sample",Nigeria,https://bazaar.abuse.ch/sample/d28ef1a22...,"Submitted by David"
-2025-11-25,virustotal,173.208.142.174,ip_src,"malware server",Nil,https://www.virustotal.com/gui/ip-address/173.208.142.174/details,"Submitted by David"
-2025-11-25,HivePro,b1a2c3d4e5f6...,sha256,"BlazeStealer sample",Global,https://www.hivepro.com/wp-content/uploads/2023/11/BlazeStealer-Malware-Uncovered-in-Python-Packages-on-PyPI_TA2023454.pdf,"Submitted by David"
-2025-11-26,virustotal,185.225.19.240,ip_src,"BlazeStealer C2 server",Global,https://www.virustotal.com/gui/ip-address/185.225.19.240,"Submitted by David"
+2025-03-30,virustotal,173.208.142.174,ip_src,"malware server",Nil,https://www.virustotal.com/gui/ip-address/173.208.142.174/details,"Submitted by David"
+2023-11-5,HivePro,b1a2c3d4e5f6...,sha256,"BlazeStealer sample",Global,https://www.hivepro.com/wp-content/uploads/2023/11/BlazeStealer-Malware-Uncovered-in-Python-Packages-on-PyPI_TA2023454.pdf,"Submitted by David"
+2025-10-26,virustotal,185.225.19.240,ip_src,"BlazeStealer C2 server",Global,https://www.virustotal.com/gui/ip-address/185.225.19.240,"Submitted by David"
 2025-11-26,Rewterz,BlazeStealer package,artifact,"Malicious Python package",Global,https://rewterz.com/rewterz-news/rewterz-threat-alert-discovery-of-blazestealer-malware-within-python-packages-on-pypi-active-iocs,"Submitted by David"
 2025-11-26,PyPI,pyobftoexe,artifact,"BlazeStealer malicious Python package",Global,https://pypi.org/project/pyobftoexe/,"Submitted by David"
 2025-11-26,PyPI,pyobfusfile,artifact,"BlazeStealer malicious Python package",Global,https://pypi.org/project/pyobfusfile/,"Submitted by David"
