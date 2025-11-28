@@ -1,11 +1,11 @@
 # MISP Event Request —
-**Author:** Badmus  
-**Date:** 2025-01-19  
+**Author:** Badmus Sodiq
+**Date:** 2025-11-28  
 **Title:** BlazeStealer RAT - Discord C2 Malware with African Victims  
 **Description:** Python-based RAT using Discord for C2 with confirmed Tunisia victim. Features UAC bypass, cryptocurrency wallet theft, ransomware capabilities, and advanced anti-analysis techniques.  
 **Distribution:** Your organization only  
 **Threat level:** High  
-**Analysis level:** 2
+**Analysis level:** 2(0-2)
 
 ## Attributes to add
 
