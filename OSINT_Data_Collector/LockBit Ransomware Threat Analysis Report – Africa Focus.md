@@ -26,7 +26,7 @@ LockBit remains one of the most prolific ransomware groups globally, significant
 
 ## 3. Scope
 - **Region:** Africa (South Africa, Nigeria, Egypt, Kenya)  
-- **Sources:** Interpol Africa Cyberthreat Report, Cisco Talos, CISA, Kaspersky, Sophos IOC repositories, VirusTotal,  
+- **Sources:** Interpol Africa Cyberthreat Report, Cisco Talos, CISA, Kaspersky, Sophos IOC repositories, VirusTotal  
 
 ---
 
