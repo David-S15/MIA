@@ -31,11 +31,18 @@ LockBit remains one of the most prolific ransomware groups globally, significant
 ---
 
 ## 4. Methodology
-OSINT collection via:
-- Leak sites & dark-web forums  
-- Threat-intel feeds (CISA, Rewterz, Sophos GitHub)
+This assessment was conducted using publicly accessible, open-source intelligence (OSINT) methods, focusing exclusively on safe and legally accessible platforms. Data was collected from:
 
-**Tools Used:** Maltego, SpiderFoot, Shodan, VirusTotal, Ransomware trackers  
+- Google Search and Google News
+- Reddit cybersecurity communities (e.g., r/cybersecurity, r/blueteamsec)
+- Social media platforms (LinkedIn, X/Twitter) for incident disclosures and analyst insights
+- Public cybersecurity reports and blogs (CISA, Kaspersky, Sophos, Cisco Talos)
+- GitHub repositories containing IOC collections and analysis
+- News articles from reputable African and global outlets
+
+**Tools Used:** Google Dorking (basic), Shodan (public filters only), VirusTotal (public search), Maltego CE, SpiderFoot CE,  Maltego,  Ransomware trackers
+
+ 
 
 ---
 
