@@ -8,7 +8,7 @@ LockBit remains one of the most prolific ransomware groups globally, significant
 ### Key Findings
 - **Primary targets:** South Africa, Nigeria, Egypt  
 - **Attack vectors:** Exploitation of critical CVEs & phishing campaigns  
-- **Estimated losses:** > **$3 billion** (2019–2025)
+
 
 ### Recommendations
 - Immediate patching of CVEs  
