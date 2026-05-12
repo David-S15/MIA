@@ -33,10 +33,3 @@ These directories contain the raw technical outputs of our investigations.
 *Status: On Hold* This directory was provisioned for memory and disk forensic workflows. Due to the adjusted NYSC Passing Out Parade (POP) schedule, dedicated forensic analysis was placed on hold .
 
 ---
-
-## 🚀 How to Use the OSINT Scripts
-If you are taking over the OSINT data collection (e.g., the LockBit API scraper), please navigate to the `OSINT_Data_Collector/` folder. 
-
-Ensure you have your dependencies installed:
-```bash
-pip install requests pandas matplotlib
